@@ -52,4 +52,5 @@ Bookshelf API adalah aplikasi back-end yang memungkinkan pengguna untuk mengelol
 
 ### Rating & Certificate
 ![ads](https://i.ibb.co.com/PTFjMd6/Screenshot-2024-07-11-021135.png)
+
 [Sertifikat Kompetensi Kelas Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/0LZ06NM6KZ65)
